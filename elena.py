@@ -116,7 +116,7 @@ def print_banner():
     {C.CYAN}Ethical Learning & Network Assistant{C.RESET}
     {C.GREEN}Version 2.0 - Termux & GitHub Ready{C.RESET}
     {C.YELLOW}Developed by Suryadi{C.RESET}
-    {C.MAGENTA}https://github.com/suryadiarsyil-ops/elena-ai{C.RESET}
+    {C.MAGENTA}https://github.com/sur1254/elena-ai{C.RESET}
     {C.YELLOW}Type '/help' for commands, 'exit' to quit{C.RESET}
 {C.RESET}
 """
@@ -185,7 +185,7 @@ def call_openrouter(messages, temperature, max_tokens):
     headers = {
         "Authorization": "Bearer " + OPENROUTER_API_KEY,
         "Content-Type": "application/json",
-        "HTTP-Referer": "https://github.com/suryadiarsyil-ops/elena-ai",
+        "HTTP-Referer": "https://github.com/sur1254/elena-ai",
         "X-Title": "E.L.E.N.A GPT AI"
     }
     payload = {
@@ -216,7 +216,7 @@ def call_openrouter_stream(messages, temperature, max_tokens):
     headers = {
         "Authorization": "Bearer " + OPENROUTER_API_KEY,
         "Content-Type": "application/json",
-        "HTTP-Referer": "https://github.com/suryadiarsyil-ops/elena-ai",
+        "HTTP-Referer": "https://github.com/sur1254/elena-ai",
         "X-Title": "E.L.E.N.A GPT AI"
     }
     payload = {
