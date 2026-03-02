@@ -94,5 +94,5 @@ E.L.E.N.A :> Hello!
 
 ---
 
-Developer: Suryadi
-Repository: https://github.com/suryadiarsyil-ops/elena-ai
+Developer: **Suryadi**
+Repository: [elena-ai](https://github.com/sur1254/elena-ai)
