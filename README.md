@@ -53,7 +53,7 @@ python elena.py
 ```
 
 ### For Pydroid3 (Android)
-
+- [pydroid3](https://github.com/sur1254/elena-ai/blob/main/INSTALL_PYDROID3.md)
 1. Buka Pydroid3
 2. Menu → Pip → Install `requests`
 3. Download `elena.py` dari repository
